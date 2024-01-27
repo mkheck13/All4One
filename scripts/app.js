@@ -28,8 +28,8 @@
 // let numberInput = document.getElementById("numberInput");
 // let numberOutput = document.getElementById("numberOutput");
 
-let magic8Input = document.getElementById("magic8Input");
-let magic8Output = document.getElementById("magic8Output");
+// let magic8Input = document.getElementById("magic8Input");
+// let magic8Output = document.getElementById("magic8Output");
 
 let foodInput = document.getElementById("foodInput");
 let foodOutput = document.getElementById("foodOutput");
