@@ -1,5 +1,5 @@
-let helloInput = document.getElementById("helloInput");
-let helloOutput = document.getElementById("helloOutput");
+// let helloInput = document.getElementById("helloInput");
+// let helloOutput = document.getElementById("helloOutput");
 
 let a2Input1 = document.getElementById("a2Input1");
 let a2Input2 = document.getElementById("a2Input2");
