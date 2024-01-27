@@ -9,15 +9,15 @@
 // let twoqInput2 = document.getElementById("twoqInput2");
 // let twoqOutput = document.getElementById("twoqOutput");
 
-let greatInput1 = document.getElementById("greatInput1");
-let greatInput2 = document.getElementById("greatInput2");
-let greatOutput = document.getElementById("greatOutput");
+// let greatInput1 = document.getElementById("greatInput1");
+// let greatInput2 = document.getElementById("greatInput2");
+// let greatOutput = document.getElementById("greatOutput");
 
-let madName = document.getElementById("madName");
-let madCity = document.getElementById("madCity");
-let madDrink = document.getElementById("madDrink");
-let madWeather = document.getElementById("madWeather");
-let madOutput = document.getElementById("madOutput");
+// let madName = document.getElementById("madName");
+// let madCity = document.getElementById("madCity");
+// let madDrink = document.getElementById("madDrink");
+// let madWeather = document.getElementById("madWeather");
+// let madOutput = document.getElementById("madOutput");
 
 let oddInput = document.getElementById("oddInput");
 let oddOutput = document.getElementById("oddOutput");

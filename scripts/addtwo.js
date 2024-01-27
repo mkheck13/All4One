@@ -4,7 +4,7 @@ let submitBtn = document.getElementById("submitBtn");
 let numOutput = document.getElementById("numOutput");
 
 async function Add2Endpoint(numOne, numTwo){
-    const promise = await fetch (`https://all4oneapi.azurewebsites.net/Add/${numOne}/${numTwo}`);
+    const promise = await fetch (`https://all4oneapi.azurewebsites.net/TwoToFourEndPoints/AddTwo/${numOne}/${numTwo}`);
     const data = await promise.text();
     return data;
 }
