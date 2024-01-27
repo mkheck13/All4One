@@ -19,8 +19,8 @@
 // let madWeather = document.getElementById("madWeather");
 // let madOutput = document.getElementById("madOutput");
 
-let oddInput = document.getElementById("oddInput");
-let oddOutput = document.getElementById("oddOutput");
+// let oddInput = document.getElementById("oddInput");
+// let oddOutput = document.getElementById("oddOutput");
 
 let alphaInput = document.getElementById("alphaInput");
 let alphaOutput = document.getElementById("alphaOutput");
