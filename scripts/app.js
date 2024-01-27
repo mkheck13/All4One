@@ -22,8 +22,8 @@
 // let oddInput = document.getElementById("oddInput");
 // let oddOutput = document.getElementById("oddOutput");
 
-let alphaInput = document.getElementById("alphaInput");
-let alphaOutput = document.getElementById("alphaOutput");
+// let alphaInput = document.getElementById("alphaInput");
+// let alphaOutput = document.getElementById("alphaOutput");
 
 let numberInput = document.getElementById("numberInput");
 let numberOutput = document.getElementById("numberOutput");

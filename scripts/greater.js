@@ -12,7 +12,7 @@ async function GreaterEndpoint(numOne, numTwo){
 submitBtn.addEventListener('click', async () => {
     if(numOne.value && numTwo.value){
         let getData = await GreaterEndpoint(numOne.value, numTwo.value);
-        response.textContent = getData;
+        greatOutput.textContent = getData;
     }
 });
 
@@ -20,7 +20,7 @@ numTwo.addEventListener('keydown', async (event) => {
     if(numOne.value && numTwo.value){
         if(event.key === "Enter"){
             let getData = await GreaterEndpoint(numOne.value, numTwo.value);
-            response.textContent = getData;
+            greatOutput.textContent = getData;
         }
     }
 });
