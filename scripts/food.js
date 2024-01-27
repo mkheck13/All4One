@@ -5,7 +5,7 @@ let submitBtn = document.getElementById("submitBtn");
 
 
 async function PickerEndpoint(foodInput){
-    const promise = await fetch(`https://all4oneapi.azurewebsites.net/Food/${foodInput}`);
+    const promise = await fetch(`https://all4oneapi.azurewebsites.net/FoodPicker/${foodInput}`);
     const data = await promise.text();
     return data;
 }
