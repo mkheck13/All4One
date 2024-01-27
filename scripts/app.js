@@ -1,9 +1,9 @@
 // let helloInput = document.getElementById("helloInput");
 // let helloOutput = document.getElementById("helloOutput");
 
-let a2Input1 = document.getElementById("a2Input1");
-let a2Input2 = document.getElementById("a2Input2");
-let a2Output = document.getElementById("a2Output");
+// let a2Input1 = document.getElementById("a2Input1");
+// let a2Input2 = document.getElementById("a2Input2");
+// let a2Output = document.getElementById("a2Output");
 
 // let twoqInput1 = document.getElementById("twoqInput1");
 // let twoqInput2 = document.getElementById("twoqInput2");
