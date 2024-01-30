@@ -7,5 +7,5 @@
 
 ## 1/30/24 with the help from jessie I have my endpoints working properly.
 
-## Peer Reviewer:
-## Peer Review:
+## Peer Reviewer: Zachary Dressel
+## Peer Review: Design is clean and followed through. Lack of data validation but its there on a few. Overall really good!
