@@ -3,8 +3,9 @@ let numberOutput = document.getElementById("numberOutput");
 let submitBtn = document.getElementById("submitBtn");
 
 async function ReverseItNumberEndpoint(numberInput){
-    const promise = await fetch(`https://all4oneapi.azurewebsites.net/RevNum/${numInput}`);
+    const promise = await fetch(`https://all4oneapi.azurewebsites.net/RevNum/${numberInput}`);
     const data = await promise.text();
+    console.log(data);
     return data;
 }
 
